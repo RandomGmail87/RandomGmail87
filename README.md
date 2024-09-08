@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RandomGmail87
-- 👀 I’m interested in learning about cybersecurity
+- 👀 I’m interested in learning about clouds and network systems
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on personal projects
 - 📫 How to reach me discord: 'RandomGmail'
